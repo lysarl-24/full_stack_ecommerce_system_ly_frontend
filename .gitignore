@@ -14,9 +14,6 @@ dist-ssr
 coverage
 *.local
 
-#git_disbebled
-.git_disbebled/*
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -30,6 +27,7 @@ coverage
 *.tsbuildinfo
 
 .eslintcache
+.git_disbebled/*
 
 # Cypress
 /cypress/videos/
