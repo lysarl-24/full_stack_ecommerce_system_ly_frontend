@@ -15,7 +15,7 @@ coverage
 *.local
 
 # Editor directories and files
-.vscode/*
+.vscode/
 !.vscode/extensions.json
 .idea
 *.suo
@@ -27,7 +27,7 @@ coverage
 *.tsbuildinfo
 
 .eslintcache
-.git_disbebled/*
+.git_disbebled/
 
 # Cypress
 /cypress/videos/
